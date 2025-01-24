@@ -1,0 +1,45 @@
+﻿  cShader.cpp
+  cShaderManager.cpp
+  cBasicFlyCamera.cpp
+  C24BitBMPpixel.cpp
+  cBasicTextureManager.cpp
+  CTextureFromBMP.cpp
+  cHoverTank.cpp
+  cJetPack.cpp
+  cLightHelper.cpp
+  cLightManager.cpp
+  cMonster.cpp
+  cPhysics.cpp
+  cRailGun.cpp
+  cSheild.cpp
+  cSuperTank.cpp
+  cSword.cpp
+  cTank.cpp
+  cTankBuilder.cpp
+  cTankFactory.cpp
+  cVAOManager.cpp
+D:\Physics & Simulation 1\PhysicsProject1\PhysicsProject1\NoodleNexus\NoodleNexus\cVAOManager\cVAOManager.cpp(525,17): warning C4101: 'a': unreferenced local variable
+D:\Physics & Simulation 1\PhysicsProject1\PhysicsProject1\NoodleNexus\NoodleNexus\cVAOManager\cVAOManager.cpp(525,14): warning C4101: 'b': unreferenced local variable
+D:\Physics & Simulation 1\PhysicsProject1\PhysicsProject1\NoodleNexus\NoodleNexus\cVAOManager\cVAOManager.cpp(525,11): warning C4101: 'g': unreferenced local variable
+D:\Physics & Simulation 1\PhysicsProject1\PhysicsProject1\NoodleNexus\NoodleNexus\cVAOManager\cVAOManager.cpp(525,8): warning C4101: 'r': unreferenced local variable
+  Compiling...
+  mouse_keyboard_async.cpp
+  PlyFileLoaders.cpp
+  RenderCall.cpp
+  sharedThings.cpp
+  theMain.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'theMain.cpp')
+  D:\Physics & Simulation 1\PhysicsProject1\PhysicsProject1\NoodleNexus\NoodleNexus\include\glad\glad.h(32,1):
+  see previous definition of 'APIENTRY'
+  
+D:\Physics & Simulation 1\PhysicsProject1\PhysicsProject1\NoodleNexus\NoodleNexus\theMain.cpp(1527,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Physics & Simulation 1\PhysicsProject1\PhysicsProject1\NoodleNexus\NoodleNexus\theMain.cpp(1367,8): warning C4101: 'botDistance': unreferenced local variable
+D:\Physics & Simulation 1\PhysicsProject1\PhysicsProject1\NoodleNexus\NoodleNexus\theMain.cpp(1370,12): warning C4101: 'fireDirection': unreferenced local variable
+D:\Physics & Simulation 1\PhysicsProject1\PhysicsProject1\NoodleNexus\NoodleNexus\theMain.cpp(1371,9): warning C4101: 'pProjectile': unreferenced local variable
+  glad.c
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 1482 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  NoodleNexus.vcxproj -> D:\Physics & Simulation 1\PhysicsProject1\PhysicsProject1\NoodleNexus\x64\Release\NoodleNexus.exe
