@@ -21,4 +21,4 @@ Please run in release for better performance
 
 ![Alt text](MapGeneratorDetails.png)
 
-![Alt text](The Catacombs of Baddya the Awesome 01 (player, 23 x 29).png)
+![Alt text](The_Catacombs_of_Baddya_the_Awesome_01_(player,23 x 29).png)
